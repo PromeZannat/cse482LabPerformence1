@@ -1,0 +1,65 @@
+.container {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+header {
+    display: block;
+    background-color: #ebdae0;
+}
+.logo {
+    float: left;
+    width: 80px;    
+}
+.name {
+    float: right;
+   width: 60%;
+}
+img {
+    max-width: 100%;
+}
+nav {
+    width: 100%;
+    float: left;
+    text-align: none;
+    background-color: #f8f7f4;
+}
+nav ul li {
+    list-style: none;
+    display: inline-block;
+}
+nav ul li a {
+    /* display: inline-block; */
+    text-transform: uppercase;
+    color: #111111;
+    padding: 10px 30px;
+}
+.banner{
+padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.food{
+	width: 60%;
+	float: left;
+}
+.aside{
+	width:40%;
+	float: right;
+}
+.article{
+	padding-right: 40px;
+    padding-top: 40px;
+}
+footer{
+
+}
+.privacy{
+background-color: #ebdae0;
+    
+}
+.follow{
+background-color: #ebdae0;
+    
+}
